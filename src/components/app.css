@@ -1,0 +1,10 @@
+
+.middle{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(245, 245, 245);
+    margin-top:100px;
+
+}
